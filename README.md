@@ -82,12 +82,3 @@ A volumetria analisada nos gráficos de eventos por **minuto, hora e dia** mostr
 ✅ **Custos controlados** → O custo total estimado **não ultrapassa $157/mês**, o que é razoável para uma arquitetura **escalável e confiável**.  
 ✅ **Preparado para crescimento** → O modelo permite **facilidade de expansão**, seja aumentando a capacidade da fila, do RDS ou adicionando cache no frontend.  
 
-📌 **URL da Estimativa:** [AWS Calculator](https://calculator.aws/#/estimate?id=fc00c34162b571cee4bf30f8d40b98964af72cc6)  
-
----
-
-🚀 **Essa arquitetura garante um equilíbrio entre custo, desempenho e escalabilidade, permitindo um crescimento sustentável da solução!**  
-
----
-
-Caso precise de ajustes ou mais explicações, me avise! 😊
